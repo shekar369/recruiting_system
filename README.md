@@ -471,9 +471,11 @@ alembic upgrade head
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
+## 👥 Author
 
-- Development Team - Initial work
+- Project Idea & Development Team - Shekar Kaki
+- https://urbanschool369.com
+- https://indiantalent.net
 
 ## 🙏 Acknowledgments
 
@@ -487,8 +489,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For issues and questions:
 - Create an issue on GitHub
 - Check documentation in `/docs` folder
+- You can reach urbanschool369@gmail.com
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap Future developement
 
 - [ ] Email notifications for applications
 - [ ] Advanced analytics dashboard
